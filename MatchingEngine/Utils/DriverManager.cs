@@ -20,9 +20,6 @@ namespace MatchingEngine.Utils
         {
             switch (browserName.ToLower())
             {
-                case "Firefox":
-                    driver = new FirefoxDriver();
-                    break;
                 case "Edge":
                     driver = new EdgeDriver();
                     break;
