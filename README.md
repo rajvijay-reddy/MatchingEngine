@@ -4,7 +4,7 @@ This framework is implemented for web-based automation projects and developed us
 <br>
 
 ## Pre-requisites
-Windows OS
+Windows OS <br>
 Visual Studio
 <br>
 
@@ -13,9 +13,9 @@ Clone the Project
 <br>
 
 ## Installation
-Visual Studio
+Visual Studio <br>
 Start Visual Studio
-Click on File>>Open>> Project / Solution.
+Click on File>>Open>> Project / Solution. <br>
 Navigate to the project folder and select "MatchingEngine.sln".<br> The tests by default executes in Chrome browser. If required to execute tests on Edge change the 'browser' key value to 'Edge'.
 <br>
 
