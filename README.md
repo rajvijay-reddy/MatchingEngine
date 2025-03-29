@@ -1,6 +1,6 @@
 # MatchingEngine
 
-Selenium webdriver in C# with Page Object Model design pattern. <br>  This framework is implemented for web-based automation projects and developed using selenium, C# using Page Object Model.<br>  Currently only supports test execution in Chrome or Edge browser.
+This framework is implemented for web-based automation projects and developed using selenium, C# using Page Object Model.<br>  Currently only supports test execution in Chrome or Edge browser.
 <br>
 
 ## Pre-requisites
