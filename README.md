@@ -23,10 +23,10 @@ Navigate to the project folder and select "MatchingEngine.sln".<br> The tests by
 Tests can be executed via Visual Studio Code or via terminal
 <br>
 
-### To execute through terminal 
+### To execute code through Visual Studio Editor 
 Under the menu click on Build -> Build Solution. <br> On successful completion of the build, under the menu click Test -> Run All Tests. <br>
 
-### To Execute code through Terminal 
+### To execute code through Terminal 
 Open the terminal, navigate to the project folder and execute command 'dotnet build MatchingEngine.sln'. <br> On successful completion of the build, run test by executing command 'dotnet test MatchingEngine.sln'.
 
 ## Contact 
